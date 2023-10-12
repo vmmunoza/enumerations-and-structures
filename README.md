@@ -3,13 +3,11 @@
 This smart contract showcases the basic data types in Solidity, focusing on enumerations (enum) and structures (struct).
 Table of Contents
 
-    Contract Overview
-    Function Descriptions
-    Deployment
-    Interactions
-    Recommendations for Improvement
-    License
-
+-    Contract Overview
+-    Function Descriptions
+-    Deployment
+-    Interactions
+ 
 Contract Overview
 
 The EnumsAndStructs contract demonstrates:
@@ -20,7 +18,7 @@ The EnumsAndStructs contract demonstrates:
 
 Function Descriptions
 
-    currentState(): Reads the current state of the contract. Initially set to Created.
+    ´currentState():´ Reads the current state of the contract. Initially set to Created.
 
     users(address): Accepts an Ethereum address and returns the associated User data.
 
